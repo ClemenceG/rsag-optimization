@@ -1,5 +1,6 @@
 import torch
 import warnings
+import copy
 
 class RSAG(torch.optim.Optimizer):
     r"""
