@@ -37,6 +37,7 @@ class TrainPipeline:
         log['loss_std'] = []
         log['accuracy_std'] = []
 
+        self.model.train()
         for epoch in range(0,n_epochs):
             print(f'Starting Epoch {epoch+1}')
 
