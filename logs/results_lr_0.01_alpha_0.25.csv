@@ -1,4 +1,0 @@
-loss,[tensor(2184.9541, device='cuda:0', grad_fn=<AddBackward0>), tensor(2115.2686, device='cuda:0', grad_fn=<AddBackward0>), tensor(1986.1758, device='cuda:0', grad_fn=<AddBackward0>), tensor(1741.3301, device='cuda:0', grad_fn=<AddBackward0>), tensor(1378.3195, device='cuda:0', grad_fn=<AddBackward0>)]
-accuracy,[13647.0, 26587.0, 30882.0, 34015.0, 35904.0]
-loss,[2.246245616674423, 2.1520913779735564, 1.9682444602251052, 1.6403944532076518, 1.2458613594373067]
-accuracy,[46.733333333333334, 60.09166666666667, 68.025, 72.75, 77.35]
